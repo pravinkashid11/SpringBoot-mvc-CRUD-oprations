@@ -1,1 +1,1 @@
-Spring Boot MVC Appliaction CRUD operatoins
+Spring Boot MVC Application CRUD operations
